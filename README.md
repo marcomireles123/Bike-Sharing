@@ -28,7 +28,8 @@ In this project I created visualizations with Tableau to present past data of a 
 * Finally this graph shows the duration of each trip and it appears that most of them are just under half an hour, without very many lasting more than an hour at all. 
 ![checkout_users](https://user-images.githubusercontent.com/112291075/209225104-8318a98e-447f-455b-9035-b976f8612e06.PNG)
 
-
-
 ## Summary
-* 
+* With these created visuals from the CitiBike dataset, it is easy to tell that they were successful in the hustling and bussling city of New York City. The tourists that vist the city were also a contributing factor to the success. It also appears that most rides average about half an hour off activity, so it should be taken into consideration that a radius of that time should be concentrated on since it trips would likely start and end in that area. 
+* Here are some things to consider as well: 
+  
+:white_check_mark: Car ownership: How many residents in the area rely on their own personal vehicles to get from place to place and which residents rely on public transport or their own bikes to get around. Investors should not invest in an area where most things are spread out, because chances are that riders would not want to ride for that long or far to get to that destination.  
