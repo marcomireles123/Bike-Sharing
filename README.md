@@ -7,5 +7,8 @@ In this project I created visualizations with Tableau to present past data of a 
 * My Tableau presentation can be found [here](https://public.tableau.com/app/profile/marco7241/viz/CitibikeAnalysis_16716858522550/Story1).
 
 ## Results
-The first visualization I started with was where the bike trips started for each user. With this graph, investors can tell which areas have the highest and lowest amounts of trips. This leads to maintaining the bikes in these areas as a priority since they will be used the most. We can also see a trend here. It appears the heaviest usage comes from areas that have a lot of tourists. This makes sense since the bikes provide tourists with a quick and cheap mode of transportation to travel the city during their stay.
+* The first visualization I started with was where the bike trips started for each user. With this graph, investors can tell which areas have the highest and lowest amounts of trips. This leads to maintaining the bikes in these areas as a priority since they will be used the most. We can also see a trend here. It appears the heaviest usage comes from areas that have a lot of tourists. This makes sense since the bikes provide tourists with a quick and cheap mode of transportation to travel the city during their stay.
 ![trips_started](https://user-images.githubusercontent.com/112291075/209198160-7f052339-c752-4bfb-96eb-15677b44bb8b.PNG)
+
+* This one is a simple breakdown of the genders of all users. This information can help foster ideas to be able to include more women to even out the users in altogether.
+![Genders](https://user-images.githubusercontent.com/112291075/209200057-068f90f1-26ff-49b1-b76b-b57d52427329.PNG)
