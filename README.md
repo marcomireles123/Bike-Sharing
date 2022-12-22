@@ -12,3 +12,6 @@ In this project I created visualizations with Tableau to present past data of a 
 
 * This one is a simple breakdown of the genders of all users. This information can help foster ideas to be able to include more women to even out the users in altogether.
 ![Genders](https://user-images.githubusercontent.com/112291075/209200057-068f90f1-26ff-49b1-b76b-b57d52427329.PNG)
+
+* With the Trip hours visual, investors can see when the most amount of users are using the bike-sharing app. This way we can determine when we can take bikes in for maintenance, so that they can be prepared for the 'rush hour'.
+* ![trip_hours](https://user-images.githubusercontent.com/112291075/209200544-f31b6ff6-6088-4103-b506-454192b33b68.PNG)
