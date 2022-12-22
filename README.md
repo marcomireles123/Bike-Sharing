@@ -22,6 +22,13 @@ In this project I created visualizations with Tableau to present past data of a 
 * According to this graph, we can determine that both genders have the heaviest usage around the same times. Females have a lighter gradient than the male group, but that is due females using the bike-sharing app less. 
 * ![gender_use](https://user-images.githubusercontent.com/112291075/209224152-b56c644a-2b02-48ab-86ac-f3ab683c04c8.PNG)
 
+* This graph better represents the disparity between how many more males (orange line) there are than females (blue line).
+![checkout_times](https://user-images.githubusercontent.com/112291075/209224759-cb789661-c691-4b9f-b042-0c9934eb1d52.PNG)
+
+* Finally this graph shows the duration of each trip and it appears that most of them are just under half an hour, without very many lasting more than an hour at all. 
+![checkout_users](https://user-images.githubusercontent.com/112291075/209225104-8318a98e-447f-455b-9035-b976f8612e06.PNG)
+
+
 
 ## Summary
 * 
